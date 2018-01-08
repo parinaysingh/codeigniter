@@ -18,7 +18,7 @@ $("#submit").click(function(e){
                 email: email,
                 password: password
             }
-        }).done(function( data ) {
+        }).done(function(data) {
             if(data === 'success'){
                 window.location = '/codeigniter';
             }else {
