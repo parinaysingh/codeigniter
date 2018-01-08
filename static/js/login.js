@@ -1,3 +1,4 @@
+/*jkavfh*/
 $("#submit").click(function(e){
     e.preventDefault();
     var password = $('#password').val();
