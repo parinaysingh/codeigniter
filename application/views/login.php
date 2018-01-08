@@ -1,5 +1,6 @@
 <?php require_once 'navigation.php'?>
 <div class="container">
+	<h1>This is live</h1>
     <div class="row">
         <div class="col-lg-4 col-lg-offset-4 col-sm-6 col-sm-offset-3">
             <div class="row">
